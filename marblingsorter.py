@@ -3,7 +3,7 @@ from PIL import Image,ImageOps
 import matplotlib.pyplot as plt
 import tensorflow_hub as hub
 import tensorflow as tf
-import numpy as np
+import numpy as np 
 from tensorflow.keras import preprocessing
 from tensorflow.keras.activations import softmax
 from tensorflow.keras.models import load_model 
