@@ -3,3 +3,8 @@ pandas
 streamlit
 sklearn
 matplotlib
+tensorflow_hub
+tensorflow
+h5py 
+os 
+PIL
