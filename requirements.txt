@@ -1,7 +1,6 @@
-numpy
-pandas
-streamlit
-sklearn
+h5py
 matplotlib
+Pillow
+streamlit
 tensorflow
 tensorflow_hub
