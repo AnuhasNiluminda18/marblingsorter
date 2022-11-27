@@ -1,6 +1,0 @@
-h5py
-matplotlib
-Pillow
-streamlit
-tensorflow
-tensorflow_hub
